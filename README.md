@@ -26,4 +26,4 @@ This project is built to practice frontend development and understand how to org
 - JavaScript
 
 ## 👤 Author
-YOUR NAME
+ISHIMWE DIEU MERCI
